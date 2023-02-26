@@ -1,6 +1,6 @@
 import cv2
 
-for i in range(11):
+for i in range(9):
     for j in range(10):
         path = "data/" + str(i) + "/" + str(j) + ".bmp"
 
